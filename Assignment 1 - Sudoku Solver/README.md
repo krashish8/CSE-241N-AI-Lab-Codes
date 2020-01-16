@@ -10,14 +10,14 @@ In this assignment, you will implement backtracking. You are also required to lo
 
 Files: 
 
-* [assignment1.py](18075068/assignment1.py): This file contains the class object for the sudoku puzzle. You need to fill in the `solve` method of the "sudoku" class. Helper functions are in place to automatically read the data and write the solution into a file.
+* [assignment1.py](assignment1.py): This file contains the class object for the sudoku puzzle. You need to fill in the `solve` method of the "sudoku" class. Helper functions are in place to automatically read the data and write the solution into a file.
 
-* [data.txt](18075068/data.txt): This contains a sample sudoku problem which needs to be solved using your algorithm. The 0 value entries need to be filled.
+* [data.txt](data.txt): This contains a sample sudoku problem which needs to be solved using your algorithm. The 0 value entries need to be filled.
 
 Files to be submitted:
 
-* [assignment1.py](18075068/assignment1.py)
-* [sol.txt](18075068/sol.txt): This will be automatically generated using your algorithm when you run assignment-0.py
+* [assignment1.py](assignment1.py)
+* [sol.txt](sol.txt): This will be automatically generated using your algorithm when you run assignment-0.py
 
 **Note that your code will be run on other sample sudoku problems as well, so make sure to test your code thoroughly.**
 
